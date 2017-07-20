@@ -8,3 +8,5 @@ test/e2e/reports
 selenium-debug.log
 .netlify
 .*.dockerfile
+/flashover.sublime-project
+/flashover.sublime-workspace
